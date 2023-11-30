@@ -1,10 +1,10 @@
 # MilkMyDay - XC Project
 
-Alfan Fathoni J0303211169
-Athallah Yacob Asy’ari J0303211124
-Farid Ammar X1004231165
-Hafidz Faqih Dinillah J0303211107
-Lina Khariyyah X1004231176
+Alfan Fathoni J0303211169 <br>
+Athallah Yacob Asy’ari J0303211124 <br>
+Farid Ammar X1004231165 <br>
+Hafidz Faqih Dinillah J0303211107 <br>
+Lina Khariyyah X1004231176 <br>
 
 Teknologi Rekayasa Perangkat Lunak 58 - Sekolah Vokasi IPB
 
